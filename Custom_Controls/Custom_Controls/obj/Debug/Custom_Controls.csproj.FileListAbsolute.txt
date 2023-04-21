@@ -1,0 +1,8 @@
+D:\编程\阳光超市管理系统\Custom_Controls\Custom_Controls\bin\Debug\Custom_Controls.dll
+D:\编程\阳光超市管理系统\Custom_Controls\Custom_Controls\bin\Debug\Custom_Controls.pdb
+D:\编程\阳光超市管理系统\Custom_Controls\Custom_Controls\obj\Debug\Custom_Controls.csproj.AssemblyReference.cache
+D:\编程\阳光超市管理系统\Custom_Controls\Custom_Controls\obj\Debug\Custom_Controls.csproj.GenerateResource.cache
+D:\编程\阳光超市管理系统\Custom_Controls\Custom_Controls\obj\Debug\Custom_Controls.csproj.CoreCompileInputs.cache
+D:\编程\阳光超市管理系统\Custom_Controls\Custom_Controls\obj\Debug\Custom_Controls.dll
+D:\编程\阳光超市管理系统\Custom_Controls\Custom_Controls\obj\Debug\Custom_Controls.pdb
+D:\编程\阳光超市管理系统\Custom_Controls\Custom_Controls\obj\Debug\Custom_Controls.USTextBox.resources

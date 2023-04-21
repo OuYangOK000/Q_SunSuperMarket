@@ -1,0 +1,11 @@
+D:\编程\阳光超市管理系统\Q_SunSuperMarket\Q_BLL\bin\Debug\Q_BLL.dll
+D:\编程\阳光超市管理系统\Q_SunSuperMarket\Q_BLL\bin\Debug\Q_BLL.pdb
+D:\编程\阳光超市管理系统\Q_SunSuperMarket\Q_BLL\bin\Debug\Q_DAL.dll
+D:\编程\阳光超市管理系统\Q_SunSuperMarket\Q_BLL\bin\Debug\Q_Models.dll
+D:\编程\阳光超市管理系统\Q_SunSuperMarket\Q_BLL\bin\Debug\Q_DAL.pdb
+D:\编程\阳光超市管理系统\Q_SunSuperMarket\Q_BLL\bin\Debug\Q_Models.pdb
+D:\编程\阳光超市管理系统\Q_SunSuperMarket\Q_BLL\obj\Debug\Q_BLL.csproj.AssemblyReference.cache
+D:\编程\阳光超市管理系统\Q_SunSuperMarket\Q_BLL\obj\Debug\Q_BLL.csproj.CoreCompileInputs.cache
+D:\编程\阳光超市管理系统\Q_SunSuperMarket\Q_BLL\obj\Debug\Q_BLL.csproj.CopyComplete
+D:\编程\阳光超市管理系统\Q_SunSuperMarket\Q_BLL\obj\Debug\Q_BLL.dll
+D:\编程\阳光超市管理系统\Q_SunSuperMarket\Q_BLL\obj\Debug\Q_BLL.pdb
